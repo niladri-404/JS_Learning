@@ -4,6 +4,7 @@
 
 console.log( 3 + 3 )
 
+// Variables can store different data types like strings, numbers, and booleans.
 let name="Niladri"
 let age=22
 
