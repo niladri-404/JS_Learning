@@ -15,3 +15,17 @@ console.log(typeof booleanIsLoggedIn)
 let someNum=33
 let stringNumber = String(someNum)
 console.log(typeof stringNumber)
+
+let value =27
+let negvalue = -value
+console.log(negvalue)
+
+let str1 = "Niladri"
+let str2 = " Sana"
+console.log(str1 + str2)
+
+let num1,num2,num3
+num1 = num2 = num3 = 2+2
+let gameCounter =100
+++gameCounter;
+console.log(gameCounter)
